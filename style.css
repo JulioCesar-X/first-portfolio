@@ -1,0 +1,132 @@
+
+.flex-conteiner-inline {
+
+    display: inline-flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.flex-conteiner-inline-titulo2 {
+
+    display: inline-flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.flex-conteiner-inline-titulo {
+
+    display: inline-flex;
+    box-shadow: 0px 0px 15px purple;
+    background-color: black;
+    text-align: center;
+    padding: 2%;
+    border-radius: 100px;
+    flex-wrap: wrap;
+
+}
+
+
+.circle {
+
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    color: white;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0px 0px 15px purple;
+
+}
+
+
+.titulo {
+
+    color:blueviolet;
+    background-color: black;
+    font-family: 'Rubik Moonrocks', sans-serif;
+    text-transform: uppercase;
+    font-size: 5rem;
+    text-align: center;
+    padding: 2%;
+
+}
+
+.titulo2 {
+
+    color: whitesmoke;
+    font-family: 'Changa One', sans-serif;
+    text-transform: uppercase;
+    font-size: 4rem;
+    background-color: black;
+    text-align: center;
+    border-radius: 100px;
+    padding: 4%;
+}
+
+.tituloDIR {
+
+
+    color: white;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-size: 2rem;
+
+
+
+}
+
+.tituloESQ {
+
+
+    color: white;
+    font-family: 'Satisfy', cursive;
+    font-size: 2rem;
+
+
+}
+
+.foot-box-flex {
+
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    background-color: black;
+    padding: 2%;
+
+}
+
+.margin-buttons{
+
+    margin-top: 15%;
+    padding: 1%;
+}
+
+.margin{
+
+    margin-top: 25%;
+    padding: 5%;
+}
+.margin-image{
+
+    margin-top: 50%;
+    padding: 1%;
+    box-shadow: 0px 1px 50px purple;
+}
+
+.margin-image2{
+
+    margin-top: 85%;
+    padding: 1%;
+    box-shadow: 0px 1px 50px purple;
+
+}
+
+.pilula{
+
+    padding: 2%;
+    border-radius: 200px;
+
+}
+

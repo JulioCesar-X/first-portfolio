@@ -1,0 +1,154 @@
+
+
+.foot-box-flex {
+
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    background-color: black;
+    padding: 2%;
+
+}
+
+.circle {
+
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    color: white;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0px 1px 25px purple;
+
+}
+
+.titulo {
+
+    color:blueviolet;
+    background-color: black;
+    font-family: 'Rubik Moonrocks', sans-serif;
+    text-transform: uppercase;
+    font-size: 5rem;
+    text-align: center;
+    padding: 2%;
+
+
+}
+.titulocard {
+
+    color:whitesmoke;
+    font-family: 'Changa One', sans-serif;
+    padding: 3%;
+
+
+}
+
+.titulo2 {
+
+    color: whitesmoke;
+    font-family: 'Changa One', sans-serif;
+    padding: 2%;
+    text-align: center;
+    margin-top: 5%;
+
+}
+
+.fundo-card{
+    background-color: black;
+
+}
+.margin-buttons{
+
+    margin-top: 15%;
+}
+
+.margin{
+
+    margin-top: 30%;
+    padding: 3%;
+}
+
+
+.pilula{
+
+    padding: 5%;
+    border-radius:100px;
+
+}
+
+.resize{
+
+    height: 80%;
+    width: 80%;
+
+}
+
+.tituloDIR {
+
+
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 3%;
+
+
+
+}
+.Subtitulo{
+
+
+    color: white;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-size: 3rem;
+    background-color: black;
+    padding: 3%;
+    text-align: center;
+
+
+}
+
+.border-feia{
+
+    box-shadow: 0px 1px 100px purple;
+
+}
+.border-feia2{
+
+    box-shadow: 0px 1px 200px black;
+
+}
+.fundo{
+
+    background-image:url("../images/fey.jpg");
+    background-position: 8%;
+
+
+}
+
+.flex-conteiner-inline-titulo {
+
+    display: flex;
+    justify-content: center;
+    box-shadow: 0px 0px 15px purple;
+    background-color: black;
+    text-align: center;
+    padding: 2%;
+    border-radius: 100px;
+    flex-wrap: wrap;
+}
+
+.tituloESQ {
+
+
+    color: whitesmoke;
+    font-family: 'Satisfy', cursive;
+    font-size: 2rem;
+    font-weight: bolder;
+    text-align: center;
+    
+
+
+}
